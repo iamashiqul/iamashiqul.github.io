@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.368f3865.js",
+    "main.js": "/static/js/main.8534f764.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.36160481.chunk.js": "/static/js/64.36160481.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.b3fcb0a8.chunk.js": "/static/js/769.b3fcb0a8.chunk.js",
-    "static/media/resume.pdf": "/static/media/resume.319e223d83d4135fa555.pdf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/pustLogo.png": "/static/media/pustLogo.9c3f91e8b210eec361ce.png",
+    "static/media/resume.pdf": "/static/media/resume.49856766dac89826eb73.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/fhlLogo.png": "/static/media/fhlLogo.7f6eae0b3be29bfa9b5a.png",
     "static/media/cisco.png": "/static/media/cisco.e7c0f70b2b165e31af62.png",
@@ -23,7 +23,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.368f3865.js.map": "/static/js/main.368f3865.js.map",
+    "main.8534f764.js.map": "/static/js/main.8534f764.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.36160481.chunk.js.map": "/static/js/64.36160481.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.368f3865.js"
+    "static/js/main.8534f764.js"
   ]
 }
